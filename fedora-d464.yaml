@@ -61,7 +61,6 @@ packages:
   - starship
   - mpv
   - asciinema
-  - r2cutter
   - qrencode
   - zbar
 
