@@ -36,6 +36,7 @@ packages:
   - pass-otp
   - rclone
   - gnome-boxes
+  - gnome-tweaks
 
   - git
   - make
