@@ -35,6 +35,7 @@ packages:
   - pass
   - pass-otp
   - rclone
+  - gnome-boxes
 
   - git
   - make
@@ -59,10 +60,11 @@ packages:
   - ffmpeg
   - caddy
   - starship
-  - mpv
   - asciinema
   - qrencode
   - zbar
+  - vlc
+  - nmap
 
   - libvirt-daemon 
   - libvirt-client
