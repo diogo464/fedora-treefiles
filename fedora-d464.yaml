@@ -35,6 +35,7 @@ packages:
   - pass
   - pass-otp
   - rclone
+  - htop
   - gnome-boxes
   - gnome-tweaks
   - dconf-editor
