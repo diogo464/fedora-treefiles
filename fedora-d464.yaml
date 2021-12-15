@@ -68,9 +68,15 @@ packages:
   - vlc
   - nmap
 
-  - libvirt-daemon 
-  - libvirt-client
+  - virt-install
+  - libvirt-daemon-config-network
+  - libvirt-daemon-kvm
+  - qemu-kvm
   - virt-manager
+  - virt-viewer
+  - libguestfs-tools
+  - python3-libguestfs
+  - virt-top
 
 repos:
   - fedora-35
