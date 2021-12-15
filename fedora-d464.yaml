@@ -52,6 +52,7 @@ packages:
   - perf
   - kcachegrind
   - vagrant
+  - python3-pip
 
   - exa
   - ripgrep
