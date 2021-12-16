@@ -52,7 +52,6 @@ packages:
   - meson
   - perf
   - kcachegrind
-  - vagrant
   - python3-pip
   - openssl
 
@@ -80,6 +79,10 @@ packages:
   - libguestfs-tools
   - python3-libguestfs
   - virt-top
+
+  - vagrant
+  - vagrant-sshfs
+  - vagrant-libvirt
 
 repos:
   - fedora-35
