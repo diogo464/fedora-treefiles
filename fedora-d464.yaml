@@ -39,6 +39,8 @@ packages:
   - gnome-boxes
   - gnome-tweaks
   - dconf-editor
+  - patchelf
+  - fuse-sshfs
 
   - git
   - make
