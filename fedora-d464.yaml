@@ -25,23 +25,33 @@ packages:
   # Extra packages
   - rpmfusion-free-release
 
+  # Shell/Gui apps
   - fish
   - tmux
   - neovim
-  - wireguard-tools
-  - wget
-  - curl
-  - borgbackup
   - pass
   - pass-otp
-  - rclone
-  - htop
   - gnome-boxes
   - gnome-tweaks
   - dconf-editor
-  - fuse-sshfs
+  - htop
+  - exa
+  - bat
+  - cheat
+  - tldr
+  - ffmpeg
+  - caddy
+  - starship
+  - asciinema
+  - qrencode
+  - zbar
+  - vlc
+  - nmap
 
+  # Tools
+  - ripgrep
   - git
+  - git-delta
   - make
   - cmake
   - gcc
@@ -58,22 +68,14 @@ packages:
   - openssl
   - patch
   - patchelf
+  - wireguard-tools
+  - wget
+  - curl
+  - borgbackup
+  - rclone
+  - fuse-sshfs
 
-  - exa
-  - ripgrep
-  - bat
-  - git-delta
-  - cheat
-  - tldr
-  - ffmpeg
-  - caddy
-  - starship
-  - asciinema
-  - qrencode
-  - zbar
-  - vlc
-  - nmap
-
+  # Virtualization
   - virt-install
   - libvirt-daemon-config-network
   - libvirt-daemon-kvm
