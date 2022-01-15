@@ -47,6 +47,8 @@ packages:
   - zbar
   - vlc
   - nmap
+  # printer scanning 
+  - sane-backends
 
   # Tools
   - ripgrep
@@ -72,9 +74,12 @@ packages:
   - wget
   - curl
   - borgbackup
+  - strace
+  - jq
   - borgmatic
   - rclone
   - fuse-sshfs
+  - wireshark
 
   # Virtualization
   - virt-install
