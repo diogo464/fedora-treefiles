@@ -31,7 +31,6 @@ packages:
   - neovim
   - pass
   - pass-otp
-  - gnome-boxes
   - gnome-tweaks
   - dconf-editor
   - htop
@@ -49,32 +48,22 @@ packages:
   - nmap
   # printer scanning 
   - sane-backends
+  - mpd
 
   # Tools
   - ripgrep
   - git
   - git-delta
-  - make
-  - cmake
-  - gcc
-  - g++
-  - clang
-  - gdb
-  - ninja-build
   - lua
-  - meson
-  - perf
   - kcachegrind
   - python3-pip
   - python3-ipython
   - openssl
   - patch
-  - patchelf
   - wireguard-tools
   - wget
   - curl
   - borgbackup
-  - strace
   - jq
   - borgmatic
   - rclone
