@@ -29,6 +29,7 @@ packages:
   - fish
   - tmux
   - neovim
+  - alacritty
   - pass
   - pass-otp
   - gnome-tweaks
@@ -46,11 +47,6 @@ packages:
   - zbar
   - vlc
   - nmap
-  # printer scanning 
-  - sane-backends
-  - mpd
-
-  # Tools
   - ripgrep
   - git
   - git-delta
@@ -69,6 +65,22 @@ packages:
   - rclone
   - fuse-sshfs
   - wireshark
+  - ImageMagick
+  - pulseaudio-utils
+
+  # printer scanning 
+  - sane-backends
+
+  # music
+  - mpd
+  - mpc
+  - ncmpcpp
+  # tiling wm
+  - sway
+  - rofi
+  - dunst
+  - waybar
+  - grimshot
 
   # Virtualization
   - virt-install
