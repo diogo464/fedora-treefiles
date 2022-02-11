@@ -50,7 +50,6 @@ packages:
   - ripgrep
   - git
   - git-delta
-  - lua
   - kcachegrind
   - python3-pip
   - python3-ipython
@@ -61,12 +60,30 @@ packages:
   - curl
   - borgbackup
   - jq
+  - fzf
   - borgmatic
   - rclone
   - fuse-sshfs
   - wireshark
   - ImageMagick
   - pulseaudio-utils
+
+  # dev/build tools
+  - gdb
+  - perf
+  - patchelf
+  - strace
+  - make
+  - cmake
+  - ninja-build
+  - meson
+  - premake
+  - gcc
+  - g++
+  - clang
+  - clang-tools-extra
+  - go
+  - lua
 
   # printer scanning 
   - sane-backends
